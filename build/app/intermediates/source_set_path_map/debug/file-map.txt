@@ -1,0 +1,12 @@
+com.example.exchage_app2.app-jetified-window-java-1.0.0-beta04-0 /Users/chojja7188/.gradle/caches/transforms-3/19ff66f031cb422764b0da25d9d6bdb4/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.exchage_app2.app-jetified-annotation-experimental-1.1.0-1 /Users/chojja7188/.gradle/caches/transforms-3/55b58230e55ac19e11de59e32a6117b3/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.exchage_app2.app-core-1.6.0-2 /Users/chojja7188/.gradle/caches/transforms-3/bbbbd632898af927049fa4f571ee9e7e/transformed/core-1.6.0/res
+com.example.exchage_app2.app-jetified-window-1.0.0-beta04-3 /Users/chojja7188/.gradle/caches/transforms-3/d97cf3ffa6f05f8e8de8b41da1cca67f/transformed/jetified-window-1.0.0-beta04/res
+com.example.exchage_app2.app-debug-4 /Users/chojja7188/workspace/camp/exchage_app2/android/app/src/debug/res
+com.example.exchage_app2.app-main-5 /Users/chojja7188/workspace/camp/exchage_app2/android/app/src/main/res
+com.example.exchage_app2.app-pngs-6 /Users/chojja7188/workspace/camp/exchage_app2/build/app/generated/res/pngs/debug
+com.example.exchage_app2.app-resValues-7 /Users/chojja7188/workspace/camp/exchage_app2/build/app/generated/res/resValues/debug
+com.example.exchage_app2.app-rs-8 /Users/chojja7188/workspace/camp/exchage_app2/build/app/generated/res/rs/debug
+com.example.exchage_app2.app-mergeDebugResources-9 /Users/chojja7188/workspace/camp/exchage_app2/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.exchage_app2.app-mergeDebugResources-10 /Users/chojja7188/workspace/camp/exchage_app2/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.exchage_app2.app-merged_res-11 /Users/chojja7188/workspace/camp/exchage_app2/build/app/intermediates/merged_res/debug
